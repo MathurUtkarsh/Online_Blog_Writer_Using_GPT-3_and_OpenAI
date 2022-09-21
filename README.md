@@ -1,7 +1,7 @@
 # Online-Blog-Writer-Using-GPT-3-and-OpenAI
 Created an AI blog writing tool with GPT-3 and OpenAI API.
 
-# Get Started with this repo
+# Get Started with this Repo
 Copy this repo and move to the root of the directory.
 Create your own OpenAI API key and add it to the config.py file.
 
