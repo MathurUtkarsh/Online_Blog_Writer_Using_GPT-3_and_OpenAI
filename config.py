@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 ##OPEN API STUFF
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = 'Your OpenAI Key'
 
 
 
